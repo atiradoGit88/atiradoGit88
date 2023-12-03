@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**atiradoGit88/atiradoGit88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🕸️Hello!🕸️
 
-Here are some ideas to get you started:
+My name is Angel Tirado Jr. and I am an adventourous Full Stack Software Engineer. I am eager to set out into the world of tech and leave my stamp on it. Firm believer in being yourself!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages learned so far : Javascript, HTML, CSS, Typescript, PostgreSQL, React, Boostrap
+
+Current Language Study: Python🐍
+
+- 🔭 I’m currently working on ...Special assistant.
+- 💬 Ask me about ... Who is my favorite fictional character?
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ... I make music when i can.🎵
